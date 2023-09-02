@@ -5,8 +5,9 @@
 
 1. Compare the average weight of super powers who have Super Speed to those who do not.
 
-the average weight of supers WITH  the attibute of SuperSpeed in 129.40KG 
-the average weight of super WITHOUT the super speed attribute is 101.77KG
+- the average weight of supers WITH  the attibute of SuperSpeed in 129.40KG 
+
+- the average weight of super WITHOUT the super speed attribute is 101.77KG
 
 2.What is the average height of heroes for each publisher?
 
